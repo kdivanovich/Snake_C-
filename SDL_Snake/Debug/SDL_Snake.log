@@ -1,0 +1,11 @@
+﻿  Game.cpp
+D:\Programs\Workspace\SDL_Snake 1818 added timer in the title (FINISHED)\SDL_Snake\SDL_Snake\Game.cpp(62,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Programs\Workspace\SDL_Snake 1818 added timer in the title (FINISHED)\SDL_Snake\SDL_Snake\Game.cpp(225,18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Programs\Workspace\SDL_Snake 1818 added timer in the title (FINISHED)\SDL_Snake\SDL_Snake\Game.cpp(235,22): warning C4018: '<': signed/unsigned mismatch
+  GameObject.cpp
+  main.cpp
+  Map.cpp
+  Pickup.cpp
+  TextureManager.cpp
+  Generating Code...
+  SDL_Snake.vcxproj -> D:\Programs\Workspace\SDL_Snake 1818 added timer in the title (FINISHED)\SDL_Snake\Debug\SDL_Snake.exe
